@@ -1,0 +1,124 @@
+{
+"products" : 
+ [{
+  "id": 1,
+  "judul": "Beef - Tenderloin - Aa",
+  "harga": "$4.69"
+}, {
+  "id": 2,
+  "judul": "Cleaner - Pine Sol",
+  "harga": "$6.72"
+}, {
+  "id": 3,
+  "judul": "Mayonnaise",
+  "harga": "$6.34"
+}, {
+  "id": 4,
+  "judul": "Cassis",
+  "harga": "$7.91"
+}, {
+  "id": 5,
+  "judul": "Pepper - Julienne, Frozen",
+  "harga": "$4.37"
+}, {
+  "id": 6,
+  "judul": "Clams - Bay",
+  "harga": "$6.85"
+}, {
+  "id": 7,
+  "judul": "Appetizer - Mini Egg Roll, Shrimp",
+  "harga": "$4.00"
+}, {
+  "id": 8,
+  "judul": "Honey - Lavender",
+  "harga": "$6.58"
+}, {
+  "id": 9,
+  "judul": "Cake - Sheet Strawberry",
+  "harga": "$1.10"
+}, {
+  "id": 10,
+  "judul": "Lamb - Rack",
+  "harga": "$9.51"
+}, {
+  "id": 11,
+  "judul": "Cookie - Dough Variety",
+  "harga": "$3.55"
+}, {
+  "id": 12,
+  "judul": "Water - Mineral, Natural",
+  "harga": "$3.11"
+}, {
+  "id": 13,
+  "judul": "Gelatine Leaves - Bulk",
+  "harga": "$3.15"
+}, {
+  "id": 14,
+  "judul": "Napkin Colour",
+  "harga": "$5.37"
+}, {
+  "id": 15,
+  "judul": "Tea - Vanilla Chai",
+  "harga": "$8.56"
+}, {
+  "id": 16,
+  "judul": "Ginsing - Fresh",
+  "harga": "$7.73"
+}, {
+  "id": 17,
+  "judul": "Lidsoupcont Rp12dn",
+  "harga": "$3.04"
+}, {
+  "id": 18,
+  "judul": "Jam - Blackberry, 20 Ml Jar",
+  "harga": "$7.09"
+}, {
+  "id": 19,
+  "judul": "Puree - Mocha",
+  "harga": "$4.65"
+}, {
+  "id": 20,
+  "judul": "Soup V8 Roasted Red Pepper",
+  "harga": "$3.84"
+}, {
+  "id": 21,
+  "judul": "Cheese - Bocconcini",
+  "harga": "$2.27"
+}, {
+  "id": 22,
+  "judul": "Tomatoes - Vine Ripe, Red",
+  "harga": "$0.13"
+}, {
+  "id": 23,
+  "judul": "Juice - Tomato, 10 Oz",
+  "harga": "$9.36"
+}, {
+  "id": 24,
+  "judul": "Rye Special Old",
+  "harga": "$7.41"
+}, {
+  "id": 25,
+  "judul": "Oil - Food, Lacquer Spray",
+  "harga": "$3.57"
+}, {
+  "id": 26,
+  "judul": "Banana",
+  "harga": "$9.09"
+}, {
+  "id": 27,
+  "judul": "Bagelers - Cinn / Brown Sugar",
+  "harga": "$9.40"
+}, {
+  "id": 28,
+  "judul": "Chicken Breast Wing On",
+  "harga": "$1.08"
+}, {
+  "id": 29,
+  "judul": "Crackers - Water",
+  "harga": "$1.33"
+}, {
+  "id": 30,
+  "judul": "Longos - Grilled Chicken With",
+  "harga": "$4.01"
+}]
+}
